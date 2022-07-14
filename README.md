@@ -1,2 +1,1 @@
-# PasswordGenerator
-Password generator based on prompts
+# Password Generator Starter Code
